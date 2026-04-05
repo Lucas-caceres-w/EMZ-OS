@@ -1,4 +1,15 @@
-build
-emz_disk.img
-os.img
-test.txt
+# Compilación
+build/
+*.o
+*.bin
+*.elf
+*.img
+
+# VS Code
+.vscode/
+.clangd/
+compile_commands.json
+
+# Temporales
+*.log
+*.tmp

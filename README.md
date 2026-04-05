@@ -35,3 +35,7 @@
 ## Herramientas de Inspección
 
 - hexedit o bless: Para abrir el archivo .img y ver byte por byte si tu usuario se guardó en el sector 100.
+
+## Contributing 
+
+[CONTRIBUCIONES](https://github.com/Lucas-caceres-w/EMZ-OS/blob/master/CONTRIBUTING.md)
